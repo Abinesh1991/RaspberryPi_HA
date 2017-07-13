@@ -1,7 +1,7 @@
 import googlemaps
 from datetime import datetime
 import gtts_test
-gmaps = googlemaps.Client(key="AIzaSyAOkzS-NqJt86HCvcHthqzU_gxB_llQTHU")
+gmaps = googlemaps.Client(key="")
 now = datetime.now()
 src = "Koramangala"
 dest = "Ejipura"
